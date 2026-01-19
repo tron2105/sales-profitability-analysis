@@ -1,4 +1,4 @@
-This folder contains the raw dataset used for sales and profitability analysis.
+This folder contains the raw dataset used for sales and profitability analysis in Excel format
 
 The dataset is stored in its original, unmodified form.
 It was sourced from an existing Global Superstore–style retail dataset and is used
